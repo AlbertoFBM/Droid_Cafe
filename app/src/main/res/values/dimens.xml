@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_heading">24sp</dimen>
+    <dimen name="padding_regular">10sp</dimen>
+    <dimen name="margin_regular">20sp</dimen>
+    <dimen name="padding_wide">35sp</dimen>
+    <dimen name="text_margin_top">24dp</dimen>
+    <dimen name="text_margin_bottom">6dp</dimen>
+    <dimen name="intro_text_size">20sp</dimen>
+</resources>
